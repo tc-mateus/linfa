@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["ExitReason","Reason for stopping"]],"mod":[["error",""],["hyperparams",""],["solver_smo",""]],"struct":[["Svm","Fitted Support Vector Machines model"]]};

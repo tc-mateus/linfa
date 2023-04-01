@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["NormScaler","Norm scaler: scales all samples in a dataset to have unit norm, according to the specified norm measure"]]};

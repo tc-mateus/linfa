@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["GFunc","Some standard non-linear functions"]],"struct":[["FastIca","Fitted FastICA model for recovering the sources"]]};
