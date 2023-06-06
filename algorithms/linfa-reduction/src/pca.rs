@@ -145,9 +145,9 @@ impl<T, D: Data<Elem = f64>> Fit<ArrayBase<D, Ix2>, T, ReductionError> for PcaPa
 )]
 #[derive(Debug, Clone, PartialEq)]
 pub struct Pca<F> {
-    embedding: Array2<F>,
-    sigma: Array1<F>,
-    mean: Array1<F>,
+    pub embedding: Array2<F>,
+    pub sigma: Array1<F>,
+    pub mean: Array1<F>,
 }
 
 impl Pca<f64> {
